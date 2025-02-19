@@ -1,0 +1,37 @@
+wwwwwwwwwwwwwwwwww
+eeeeeeeeeeeeeeeeee 
+
+
+IOS Companian: IOS 1.23
+DOL_MOTORS_YP
+Fixed bugs:
+
+AUR - 784
+AUR - 1087
+AUR - 1172
+AUR - 1229
+AUR - 1232
+AUR - 1274
+AUR - 1309
+AUR - 1311
+AUR - 1319
+AUR - 1321
+AUR - 1324
+AUR - 1325
+AUR - 1330
+AUR - 1346
+
+Below are iOS limitations :
+1.	For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.
+2.	When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour
+3.	Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs 
+4.	Outgoing calls feature not needed, because user interaction needed
+5.	'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change
+6.	When the Rider kill the app , BT will not disconnect from the HMI like android
+7.	TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application
+8.	Media seek bar will not update when connected with iOS
+
+
+wwwwwwwwwwwwwwwwwwwwww
+eeeeeeeeeeeeeeeeeeeeee
+ggggggggggggggggg

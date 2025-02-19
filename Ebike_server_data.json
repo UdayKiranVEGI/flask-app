@@ -1,0 +1,112 @@
+{
+    "E-Bike": {
+        "AURIGA_YP": [
+            [
+                "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP/",
+                "Artifacts",
+                [
+                    "PTG_AURIGA_YP3.1CD_DEB_R_1.0.0_21012025_121.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP/PTG_AURIGA_YP3.1CD_DEB_R_1.0.0_21012025_121.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/Auriga/Auriga_APK_17022025_52.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/E-BikeMobile/E-BikeMobile_APK_17022025_52.zip",
+                    " IOS 1.23",
+                    "2025-01-21 13:47",
+                    "<pre><br>IOS Companian: IOS 1.23<br>AURIGA_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS</pre>"
+                ],
+                [
+                    "PTG_AURIGA_YP3.1CD_DEB_R_1.0.0_21012025_121.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP/PTG_AURIGA_YP3.1CD_DEB_R_1.0.0_21012025_121.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "IOS 1.24",
+                    "2025-01-21 13:47",
+                    "<pre>AURIGA_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS</pre>"
+                ],
+                [
+                    "PTG_AURIGA_YP3.1CD_DEB_R_1.0.0_21012025_121.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP/PTG_AURIGA_YP3.1CD_DEB_R_1.0.0_21012025_121.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "IOS 1.23",
+                    "2025-01-21 13:47",
+                    "<pre><br>AURIGA_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS<br></pre>"
+                ]
+            ]
+        ],
+        "DOL_MOTORS_YP": [
+            [
+                "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP_DOL",
+                "Artifacts",
+                [
+                    "PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.1_14022025_17.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP_DOL/PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.1_14022025_17.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/Auriga/Auriga_APK_17022025_8.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/E-BikeMobile/E-BikeMobile_APK_17022025_8.zip",
+                    " IOS 1.23",
+                    "2025-02-14 12:24",
+                    "<pre><br>IOS Companian: IOS 1.23<br>DOL_MOTORS_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS<br></pre>"
+                ],
+                [
+                    "PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.1_14022025_17.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP_DOL/PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.1_14022025_17.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/Auriga/Auriga_APK_13022025_6.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/E-BikeMobile/E-BikeMobile_APK_13022025_6.zip",
+                    "IOS 1.24",
+                    "2025-02-14 12:24",
+                    "<pre>DOL_MOTORS_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS<br></pre>"
+                ],
+                [
+                    "PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.1_14022025_17.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP_DOL/PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.1_14022025_17.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/Auriga/Auriga_APK_13022025_6.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/E-BikeMobile/E-BikeMobile_APK_13022025_6.zip",
+                    "IOS 1.23",
+                    "2025-02-14 12:24",
+                    "<pre>DOL_MOTORS_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS</pre>"
+                ],
+                [
+                    "PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.0_03022025_10.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP_DOL/PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.0_03022025_10.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/DOL_APK/DOL_APK_04022025_2.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "IOS 1.22",
+                    "2025-02-03 19:47",
+                    "<pre>DOL_MOTORS_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS</pre>"
+                ],
+                [
+                    "PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.0_03022025_10.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/PTG_BIKE_YP_DOL/PTG_AURIGA_DOL_YP3.1CD_DEB_R_1.0.0_03022025_10.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/DOL_APK_03022025_38.zip",
+                    "IOS 1.21",
+                    "2025-02-03 19:47",
+                    "<pre><br>DOL_MOTORS_YP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS<br></pre>"
+                ]
+            ]
+        ],
+        "AURIGA_BP": [
+            [
+                "http://172.18.7.60/ramp/ebike_artifact/AURIGA_BP/",
+                "Artifacts",
+                [
+                    "PTG_AURIGA_BP3.1CD_DEB_R_1.0.0_06012025_30.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_BP/PTG_AURIGA_BP3.1CD_DEB_R_1.0.0_06012025_30.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/Auriga/Auriga_APK_17022025_52.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/E-BikeMobile/E-BikeMobile_APK_17022025_52.zip",
+                    " IOS 1.23",
+                    "2025-01-06 18:07",
+                    "<pre><br>IOS Companian: IOS 1.23<br>AURIGA_BP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS<br></pre>"
+                ],
+                [
+                    "PTG_AURIGA_BP3.1CD_DEB_R_1.0.0_06012025_30.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_BP/PTG_AURIGA_BP3.1CD_DEB_R_1.0.0_06012025_30.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/AURIGA_APK_11022025_43.zip",
+                    "http://172.18.7.60/ramp/ebike_artifact/AURIGA_APK/AURIGA_APK_11022025_43.zip",
+                    "IOS 1.24",
+                    "2025-01-06 18:07",
+                    "<pre>AURIGA_BP<br>Fixed bugs:<br><br>AUR - 784<br>AUR - 1087<br>AUR - 1172<br>AUR - 1229<br>AUR - 1232<br>AUR - 1274<br>AUR - 1309<br>AUR - 1311<br>AUR - 1319<br>AUR - 1321<br>AUR - 1324<br>AUR - 1325<br>AUR - 1330<br>AUR - 1346<br><br>Below are iOS limitations :<br>1.  For SOS we have a limitation, User need to interact for call action as per Apples privacy policy.<br>2.  When the rider disconnects and try to connect the HMI First time or 2nd time, rider needs to manually forget the device in settings - iOS default behaviour<br>3.  Recents, Favorites functionalities not able to implement because of Apple did not allow to access call history/logs <br>4.  Outgoing calls feature not needed, because user interaction needed<br>5.  'Dropped pin' text update as In Maps destination location as iOS Maps are providing that information cant able to change<br>6.  When the Rider kill the app , BT will not disconnect from the HMI like android<br>7.  TBT navigation is not getting displayed in the Home screen of HMI, When the rider clicking on navigation button in the Charging station screen of mobile application<br>8.  Media seek bar will not update when connected with iOS</pre>"
+                ]
+            ]
+        ]
+    }
+}
